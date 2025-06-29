@@ -53,7 +53,8 @@ They help in:
 - Identifying key interactions
 - Communicating functionality clearly to all stakeholders
 
-![Booking System Use Case Diagram](./alx-booking-uc.png)
+![Booking System Use Case Diagram](![alx-booking-uc](https://github.com/user-attachments/assets/d90cb5d7-0f05-4360-8ceb-1b2c97308647)
+)
 
 ## Acceptance Criteria
 
